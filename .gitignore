@@ -1,0 +1,13 @@
+# Miscellaneous
+*.log
+.idea
+/runtime
+main_test.go
+/config
+/public
+/assets/
+/.env
+.DS_Store
+/build/
+/rice-box.go
+/upload/
